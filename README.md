@@ -1,4 +1,4 @@
-# Google-Maps-API
+# Google Maps API
 HTML/JS Google map code, you can use on your website.
 
 #Features
