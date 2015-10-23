@@ -6,10 +6,10 @@ var myCenter=new google.maps.LatLng(Latitude,Longitude);
 
 function initialize() {
   var mapProp = {
-  	//Change the boolean value true/false to enable/disable streetview control. >
-  	streetViewControl:false,
-  	//<;
-  	//Change the maptype control from buttons to dropdown menu, change the mapTypeControl to false or delete the following code to disable the menu. >
+    //Change the boolean value true/false to enable/disable streetview control. >
+    streetViewControl:false,
+    //<;
+    //Change the maptype control from buttons to dropdown menu, change the mapTypeControl to false or delete the following code to disable the menu. >
     mapTypeControl:true,
     mapTypeControlOptions: {
       style:google.maps.MapTypeControlStyle.DROPDOWN_MENU
